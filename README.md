@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nurbek Aliqo'ziyev
-- 👀 I’m interested in SMM , coding, designing
-- 🌱 I’m currently learning c++ , python, Javascript, node,js
+- 👀 I’m interested in coding, designing
+- 🌱 I’m currently learning c++ , python, Javascript , web development
 
 
 <!---
